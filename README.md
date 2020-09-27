@@ -1,5 +1,7 @@
 # Awesome Members
 
+[![CodeFactor](https://www.codefactor.io/repository/github/kushanshamika/awesome-members/badge/master)](https://www.codefactor.io/repository/github/kushanshamika/awesome-members/overview/master) [![buddy branch](https://app.buddy.works/shamikakushan-2/awesome-members/repository/branch/master/badge.svg?token=9acae5385127e8173ed3690d14744764a9e7ab0a34c41f941a49db3f563cb423 "buddy branch")](https://app.buddy.works/shamikakushan-2/awesome-members/repository/branch/master) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 Support open source and pick a limited edition T-shirt or plant a tree from Hacktoberfest!
 
 ![Hacktoberfest 2020](https://i.ibb.co/F7jnftY/hacktoberfest.png)
