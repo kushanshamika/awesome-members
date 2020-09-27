@@ -10,6 +10,26 @@
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+    <!-- Primary Meta Tags -->
+    <title>Awesome Members</title>
+    <meta name="title" content="Awesome Members">
+    <meta name="description" content="Make your first pull request with awesome members.">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://hacktoberfest.kushan.info/">
+    <meta property="og:title" content="Awesome Members">
+    <meta property="og:description" content="Make your first pull request with awesome members.">
+    <meta property="og:image" content="https://i.ibb.co/CHs8f15/Awesome-Members-Web-Preview.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="http://hacktoberfest.kushan.info/">
+    <meta property="twitter:title" content="Awesome Members">
+    <meta property="twitter:description" content="Make your first pull request with awesome members.">
+    <meta property="twitter:image" content="https://i.ibb.co/CHs8f15/Awesome-Members-Web-Preview.png">
+
 </head>
 <body data-rsssl=1>
     <!-- Meet Our Team -->
