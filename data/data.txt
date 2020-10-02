@@ -1,4 +1,5 @@
 Kushan Shamika,IIT,https://github.com/kushanshamika
+Yasas Mahima,ZONE 24X7,https://github.com/yasasmahima
 Andrew De Silva,IIT,https://github.com/ANDREWDESILVASL
 Yasas Mahima,IIT,https://github.com/yasasmahima
-Sahas Punchihewa,IIT.https://github.com/sahaspunchihewa
+Sahas Punchihewa,IIT,https://github.com/sahaspunchihewa
