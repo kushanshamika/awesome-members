@@ -4,4 +4,3 @@ Andrew De Silva,IIT,https://github.com/ANDREWDESILVASL
 Sahas Punchihewa,IIT,https://github.com/sahaspunchihewa
 Okky Budiman,Warpin,https://github.com/okiww
 Muhammad Dayan,Binar Academy,https://github.com/mdayann
-Sandul Renuja,Web Team MCG,https://github.com/SRenuuu
